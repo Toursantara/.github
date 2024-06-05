@@ -1,3 +1,10 @@
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+Toursantara is a Product Based Capstone Project for the Bangkit 2024 Batch 1 program. We are a team of 7 members, consisting of 3 individuals from the Machine Learning team, 2 individuals from the Cloud Computing team, and 2 individuals from the Mobile Development team.
+
+<br>
+
 <div align="center">
   <h3>Team members</h3>
   <table align="center">
