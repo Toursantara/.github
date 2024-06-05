@@ -9,6 +9,9 @@ Toursantara is a Product Based Capstone Project for the Bangkit 2024 Batch 1 pro
   <h3>Team members</h3>
   <table align="center">
     <tr>
+      <th colspan="3">ID Team : C241-PS123</th>
+    </tr>
+    <tr>
       <th>Learning Path</th>
       <th>Bangkit ID</th>
       <th>Name</th>
